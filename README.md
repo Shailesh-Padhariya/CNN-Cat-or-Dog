@@ -3,7 +3,7 @@ Overview:
 This project uses a Convolutional Neural Network (CNN) to classify images of cats and dogs. The model is trained on a labeled dataset of cat and dog images. By preprocessing the images and applying data augmentation techniques, the goal is to create a model that can accurately predict whether a given image contains a cat or a dog.
 
 The dataset used in this project contains images organized into two classes: cats and dogs. The model's performance is evaluated using a separate test set, and it is capable of classifying new images as either "cat" or "dog."
-
+datset link for training and validation: https://drive.google.com/drive/folders/1IOK195J-IswP0e9pJKtNm7ZXNL559IgY?usp=drive_link
 Required Libraries:
 This project requires the following Python libraries:
 
