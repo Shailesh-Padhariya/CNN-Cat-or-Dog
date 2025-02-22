@@ -20,3 +20,10 @@ How It Works:
 Training the Model: The CNN is trained using the training dataset, and the model is validated on the test dataset.
 Prediction: Once trained, the model can classify new images as either a cat or a dog.
 Use Case: Given a new image, the model will predict the class (cat or dog) based on its learned features.
+
+Challenges Faced:
+Limited Computational Capacity: Due to the hardware limitations, training the model on a larger dataset was not feasible. This restricted the ability to experiment with more complex architectures or longer training times, which could have improved the model's performance further.
+
+Dataset Size: Only 10,000 images were used for training and validation, which is a relatively small dataset for image classification tasks. While this size was sufficient to achieve a decent level of accuracy, a larger dataset could have improved the model's ability to generalize and reduced overfitting.
+
+Model Accuracy: While the model performs fairly well, it is not perfect. Given the dataset's size and the computational limitations, the accuracy is limited, and the model does not achieve 100% precision in classifying images. More training time, data, and possibly a more advanced architecture would likely be needed to achieve higher accuracy.
