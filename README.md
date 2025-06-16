@@ -1,4 +1,4 @@
-CNN - Cat or Dog Classifier
+# CNN - Cat or Dog Classifier
 Overview:
 This project uses a Convolutional Neural Network (CNN) to classify images of cats and dogs. The model is trained on a labeled dataset of cat and dog images. By preprocessing the images and applying data augmentation techniques, the goal is to create a model that can accurately predict whether a given image contains a cat or a dog.
 
